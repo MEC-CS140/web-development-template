@@ -71,5 +71,4 @@ Absolutely, Jasmine! I'll add very small examples to each item in the tables for
     });
     ```
 
-*This document was initially drafted with the help of ChatGPT. It has been edited and customized to fit our class's needs.
-*
+*This document was initially drafted with the help of ChatGPT. It has been edited and customized to fit our class's needs.*
