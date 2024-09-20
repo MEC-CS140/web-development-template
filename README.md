@@ -18,7 +18,7 @@ This template is equipped with the basic structure for web development using HTM
 | File Type | Description                                      | How to Use                                 |
 |-----------|--------------------------------------------------|--------------------------------------------|
 | `.html`   | HTML files define the structure of your web pages. | Add your content and structure here.      |
-| `.css`    | CSS files style your web pages.                  | Use these to make your site look amazing. |
+| `.css`    | CSS files style your web pages.                   | Use these to make your site look amazing. |
 | `.js`     | JavaScript files add interactivity to your pages. | Bring your pages to life with JS.         |
 
 Feel free to explore and modify these files as you dive deeper into web development!
