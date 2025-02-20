@@ -3,7 +3,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-vscode.live-server"
+				"ms-vsliveshare.vsliveshare",
+				"ritwickdey.LiveServer"
 			]
 		}
 	}
